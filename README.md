@@ -131,36 +131,4 @@ Text Extraction
 OUTPUT FORMAT -> Text, Bouding Box Coordinates, Confidence of each detection
 
 
-# FUTURE ENHANCEMENTS
-![image](https://user-images.githubusercontent.com/50160354/194613566-afa249a7-93a4-41e1-8cf4-a562a2fec86d.png)\
 
-
-
-## Contributors
-![image](https://user-images.githubusercontent.com/64356997/194586209-4085aa84-6e8a-4be8-b201-47cc9cfd5f6b.png)\
-
-# DEMO VIDEOS
-
-
-https://user-images.githubusercontent.com/50160354/194622544-78a38e79-a510-40a4-b27e-f90f45e866e1.mp4
-
-
-
-
-Drive [Link](https://drive.google.com/drive/folders/1DMAMYevGo-9VnQH9aWVw3m8p7rgYQTVx?usp=sharing) For all Detailed Demonstration Videos\
-
-Detailed Drive [link](https://drive.google.com/drive/folders/1ERX8f61c84qE4wq6BxO0-LNwpX3V94T0?usp=sharing) for videos, sample dataset and custom labelled images
-
-Colab File [Link](https://colab.research.google.com/drive/1IHl6lvJBVxV8_cZEMxpM1vfRlLyaoC0m?usp=sharing) for model inference and named entity recognition
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[Django-image]: https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white
-[Django-url]: https://www.djangoproject.com/
-[easyocr-image]: https://img.shields.io/badge/EasyOCR-20232A?style=for-the-badge&logo=easyocr&logoColor=61DAFB
-[easyocr-url]: https://github.com/JaidedAI/EasyOCR
-[pytorch-image]: https://img.shields.io/badge/PyTorch-35495E?style=for-the-badge&logo=pytorch&logoColor=4FC08D
-[pytorch-url]: https://pytorch.org/
-[postgresql-image]: https://img.shields.io/badge/PostgreSQL-4A4A55?style=for-the-badge&logo=postgresql&logoColor=white
-[postgresql-url]: https://www.postgresql.org/
-[Anaconda-image]: https://img.shields.io/badge/Anaconda-563D7C?style=for-the-badge&logo=anaconda&logoColor=white
-[Anaconda-url]: https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
